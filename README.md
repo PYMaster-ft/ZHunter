@@ -141,8 +141,8 @@ The package `toilet` cannot be installed yet on macOS. But ZHunter does still wo
 
 ### Demonstrative Video:
 
-- Watch Indian Bombing Method [here](https://youtu.be/9KWkwsr_QGw)  
-- Watch International Bombing Method [here](https://youtu.be/JqsHkyIcnPM).  
+- Watch Indian Bombing Method [here](https://youtu.be/x1UTgSHpY-A)  
+- Watch International Bombing Method [here](https://youtu.be/x1UTgSHpY-A).  
 
 
 ### TODO:
